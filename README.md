@@ -5,6 +5,7 @@ To start:
 ```bash
 $ npm install
 ```
+
 ```bash
 $ cd client
 ```
@@ -12,7 +13,8 @@ $ cd client
 To develop:
 
 ```bash
-$ npm run dev```
+$ npm run dev
+```
 
 To build for production:
 
